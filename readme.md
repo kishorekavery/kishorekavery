@@ -35,7 +35,7 @@ Aspiring data science professional passionate about building intelligent agents 
 
 ### 🏆 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kishore__Kavery)](https://leetcode.com/u/Kishore__Kavery/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kishore_Kavery)](https://leetcode.com/u/Kishore_Kavery/)
 
 ---
 
