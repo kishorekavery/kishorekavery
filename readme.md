@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/kishore-kumar-k-619135171" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle;"/> LinkedIn
 </a>| 
-<a href="https://leetcode.com/u/Kishore__Kavery/" target="_blank">
+<a href="https://leetcode.com/u/Kishore_Kavery/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="24" style="vertical-align:middle;"/> LeetCode
 </a>
 
